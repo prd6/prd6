@@ -13,7 +13,7 @@
 
 <h3 align="center">
    Know About Me <br>
-  ────────────────────────────────────────────────────────────────
+  ───────────────────────────────────────────────────────
 </h3>
 
 <img
@@ -51,7 +51,7 @@ Interested in contributing to **Python, backend, AI/ML, developer tools, automat
 
 <h3 align="center">
   Skills <br>
-  ─────────────────────────────────────────────────────────────────
+  ───────────────────────────────────────────────────────
 </h3>
 
 <p align="center">
@@ -79,7 +79,7 @@ Interested in contributing to **Python, backend, AI/ML, developer tools, automat
 
 <h3 align="center">
   Contact <br>
- ────────────────────────────────────────────────────────────────
+ ───────────────────────────────────────────────────────
 </h3>
 
 <p align="center">

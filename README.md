@@ -38,10 +38,11 @@ Interested in contributing to **Python, backend, AI/ML, developer tools, automat
 <img
   align="right"
   width="48%"
-  src="https://github-contributor-stats.vercel.app/api?username=prd6&limit=5&theme=github_dark&combine_all_yearly_contributions=true"
+  src="https://streak-stats.demolab.com?user=prd6&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CFCFCF"
 />
 
-[Name](https://github.com/PrD6/link)
+
+- [Portfolio](https://github.com/prd6/portfolio) — A full-stack portfolio, Using React, Nodejs, Expressjs, MongoDB. Deployed in AWS.
 
 <br clear="right"/>
 

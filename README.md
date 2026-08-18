@@ -1,15 +1,20 @@
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img width="1536" height="684" alt="ChatGPT Image Aug 18, 2026, 01_24_48 PM" src="https://github.com/user-attachments/assets/8f41db4a-4b71-49e6-81d4-f2d272ec4be3" />
   <div>
-    <p align="center">
-  <img src="https://img.shields.io/github/followers/prd6?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=000000">
-  <a href="https://linkedin.com/in/priyangshu-das-301b4639a">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  <img src="https://komarev.com/ghpvc/?username=prd6&label=Profile%20Views&style=for-the-badge&color=000000&labelColor=000000" />
-</p>
-  </div>
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/prd6?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=000000">
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/priyangshu-das-301b4639a">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:prd6.itex.neo@gmail.com">
+      <img src="https://img.shields.io/badge/Email-prd6.itex.neo%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=prd6&label=Profile%20Views&style=for-the-badge&color=000000&labelColor=000000">
+  </p>
+</div>
 </p>
 
 <hr>
@@ -21,7 +26,7 @@
 <img
   align="left"
   width="49%"
-  src="https://github-readme-stats.shion.dev/api?username=prd6&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+  src="https://github-readme-stats.shion.dev/api?username=prd6&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=9f45b0&icon_color=2A4B7C"
 />
 
 Software (Web) Developer with **React, Node.js, Express, Next.js, and MongoDB**.
@@ -38,8 +43,8 @@ Interested in contributing to **Python, backend, AI/ML, developer tools, automat
 
 <img
   align="right"
-  width="48%"
-  src="https://streak-stats.demolab.com?user=prd6&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CFCFCF"
+  width="40%"
+  src="https://github.com/user-attachments/assets/c2a96015-a98a-461d-abb7-681120871f1b"
 />
 
 

@@ -1,20 +1,19 @@
 <p align="center">
-  <img width="1536" height="684" alt="ChatGPT Image Aug 18, 2026, 01_24_48 PM" src="https://github.com/user-attachments/assets/8f41db4a-4b71-49e6-81d4-f2d272ec4be3" />
+  
+  <img width="1280" height="503" alt="githubbanner" src="https://github.com/user-attachments/assets/1d49f971-1509-4cef-9102-d98cdd92b811" />
+
   <div>
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/prd6?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=000000">
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/priyangshu-das-301b4639a">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="mailto:prd6.itex.neo@gmail.com">
-      <img src="https://img.shields.io/badge/Email-prd6.itex.neo%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=prd6&label=Profile%20Views&style=for-the-badge&color=000000&labelColor=000000">
-  </p>
-</div>
+    <p align="center">
+      <img src="https://img.shields.io/github/followers/prd6?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=000000">
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://linkedin.com/in/priyangshu-das-301b4639a">
+        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://komarev.com/ghpvc/?username=prd6&label=Profile%20Views&style=for-the-badge&color=000000&labelColor=000000">
+    </p>
+  </div>
+  
 </p>
 
 <hr>
@@ -26,7 +25,7 @@
 <img
   align="left"
   width="49%"
-  src="https://github-readme-stats.shion.dev/api?username=prd6&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=9f45b0&icon_color=2A4B7C"
+  src="https://github-readme-stats.shion.dev/api?username=prd6&show_icons=true&hide_border=false&border_color=000&hide_title=true&bg_color=000&text_color=fff&icon_color=fff"
 />
 
 Software (Web) Developer with **React, Node.js, Express, Next.js, and MongoDB**.
@@ -43,9 +42,9 @@ Interested in contributing to **Python, backend, AI/ML, developer tools, automat
 
 <img
   align="right"
-  width="40%"
-  src="https://github.com/user-attachments/assets/c2a96015-a98a-461d-abb7-681120871f1b"
-/>
+  width="30%"
+  src="https://github.com/user-attachments/assets/0f3370c1-993a-4929-a6d6-035d47087922" />
+
 
 
 - [**CodeGPM**](https://github.com/prd6/Group-Project-Manager) — A full-stack group project management platform built with React, Node.js, Express, MongoDB, featuring team collaboration, file sharing, task management, authentication, and deployed on AWS.
@@ -61,7 +60,9 @@ Interested in contributing to **Python, backend, AI/ML, developer tools, automat
 </h2>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"> <br>
+  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B">
+  <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <br>
   <div align="center">
     <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white">
